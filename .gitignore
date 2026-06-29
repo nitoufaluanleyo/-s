@@ -1,0 +1,24 @@
+# Secrets and local runtime files
+*.env
+*.key
+*.pem
+*.crt
+*.db
+*.sqlite
+*.log
+
+# 3x-ui / Xray generated output
+install-result.env
+current-subscription-url.txt
+3x-ui-subid.txt
+3x-ui-vless-reality-import.json
+vless-link.txt
+vless-client.txt
+x-ui.db
+config.json
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
